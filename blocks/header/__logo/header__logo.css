@@ -1,0 +1,10 @@
+.header__logo {
+  font-family: Tw, Arial, sans-serif;
+  font-size: 30px;
+}
+
+@media screen and (max-width: 425px) {
+  .header__logo {
+    font-size: 24px;
+  }
+}

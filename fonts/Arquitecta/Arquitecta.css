@@ -1,0 +1,26 @@
+@font-face {
+     font-family: 'Arquitecta';
+     font-style:  normal;
+     font-weight: 200;
+     font-display: swap;
+     src: url("Arquitecta_W01_Lt.woff2") format("woff2"),
+          url("Arquitecta_W01_Lt.woff") format("woff");
+   }
+
+@font-face {
+    font-family: 'Arquitecta';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("ArquitectaMedium.woff2") format("woff2"),
+         url("ArquitectaMedium.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: 'Arquitecta';
+    font-style:  normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url("Arquitecta_W00_Heavy.woff2") format("woff2"),
+         url("Arquitecta_W00_Heavy.woff") format("woff");
+  }

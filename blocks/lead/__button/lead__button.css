@@ -1,0 +1,14 @@
+.lead__button {
+    background-color: white;
+    border: none;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin: 20px 0 0 40px;
+}
+
+.lead__button:hover {
+    cursor: pointer;
+    transition: opacity 0.5s;
+    opacity: 0.6;
+}

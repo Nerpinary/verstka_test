@@ -1,0 +1,10 @@
+.intro__text-block {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__text-block {
+        margin-top: 20px;
+    }
+}

@@ -1,0 +1,22 @@
+.lead {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  background-color: #1ea6e6;
+  padding: 20vh 10%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    
+  }
+}
+
+@media screen and (max-width: 768px) {
+    .lead {
+      flex-direction: column-reverse;
+      padding: 5vh 2%;
+    }
+}

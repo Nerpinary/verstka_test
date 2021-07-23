@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tw';
+    font-style:  normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url("Tw_Cen_MT_W01_Bold_Italic.woff2") format("woff2"),
+         url("Tw_Cen_MT_W01_Bold_Italic.woff") format("woff");
+  }
+  

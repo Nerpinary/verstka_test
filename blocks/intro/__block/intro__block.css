@@ -1,0 +1,12 @@
+.intro__block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__block {
+        flex-direction: column;
+    }
+}

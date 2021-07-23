@@ -1,0 +1,21 @@
+.cover__text {
+    position: absolute;
+    z-index: 1;
+    background-color: white;
+    width: 250px;
+    height: 130px;
+    color: black;
+    left: 25%;
+    padding: 2% 5%;
+}
+
+@media screen and (max-width:400px) {
+    .cover__text {
+        position: relative;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+
